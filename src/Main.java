@@ -8,7 +8,6 @@ public class Main {
 
         ArrayList<ImpactoEcologico> impactoEcologicoList = new ArrayList<>();
 
-
         impactoEcologicoList.add(edificio);
         impactoEcologicoList.add(auto);
         impactoEcologicoList.add(bicicleta);
